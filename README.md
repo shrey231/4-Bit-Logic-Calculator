@@ -9,7 +9,7 @@ Here is the blueprint of what a 4 bit calculator looks like using logic gates. T
 
 The parts used to build the calculator include standard breadboard logic gates that include XOR, OR, and AND gates. In addition, standard copper wires, 5 volt power source, and DIP switches are needed.
 
-###Final Product
+### Final Product
 After following the blueprint to connect all the gates to their respective lights and have a 5 volt power source ready. The final output will look as followed.
 
 ![](IMG-2276.jpg)
